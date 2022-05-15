@@ -2,7 +2,7 @@
 const reactViews = require('express-react-views');
 const express = require('express');
 const register = require('@react-ssr/express/register')
-// import { Request, Response } from 'express';
+import { Request, Response } from 'express';
 // import register from '@react-ssr/express/register';
 
 

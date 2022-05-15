@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
   "skipLibCheck": true,
-    "target": "es6",
-    "module": "commonjs",
+    "target": "esnext",
+    "module": "esnext",
     "moduleResolution": "node",
     "allowJs": true,
     "resolveJsonModule": true,

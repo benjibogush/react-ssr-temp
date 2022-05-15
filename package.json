@@ -1,7 +1,6 @@
 {
-  "private": true,
   "name": "benjis-react-ssr",
-  "type": "module",
+
   "scripts": {
     "app": "node server"
   },
