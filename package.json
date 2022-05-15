@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "benjis-react-ssr",
+  "scripts": {
+    "app": "node server"
+  },
+  "devDependencies": {
+    "fs-extra": "^9.0.1"
+  },
+  "dependencies": {
+    "@react-ssr/express": "^0.24.0",
+    "express": "^4.18.1",
+    "react": "^16.14.0",
+    "react-router-dom": "^6.3.0"
+  }
+}
