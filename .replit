@@ -1,4 +1,4 @@
-entrypoint = "main.ts"
+entrypoint = "index.ts"
 
 [interpreter]
 command = [

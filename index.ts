@@ -1,6 +1,10 @@
 
-const express, Request, Response  = require('express');
-import register from '@react-ssr/express/register';
+const reactViews = require('express-react-views');
+const express = require('express');
+const register = require('@react-ssr/express/register')
+// import { Request, Response } from 'express';
+// import register from '@react-ssr/express/register';
+
 
 const app = express();
 
@@ -16,3 +20,6 @@ const app = express();
     console.log('> Ready on http://localhost:3000');
   });
 })();
+
+
+
